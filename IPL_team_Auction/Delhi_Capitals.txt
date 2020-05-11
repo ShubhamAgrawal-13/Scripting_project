@@ -1,0 +1,110 @@
+Team: Delhi Capitals
+
+Player 1
+Name : Khawar Ali
+Country : Oman
+Ability : All-Rounder
+Fees : 500000
+
+Player 2
+Name : Tim Southee
+Country : New Zealand
+Ability : All-Rounder
+Fees : 200000
+
+Player 3
+Name : Boyd Rankin
+Country : England
+Ability : Bowler
+Fees : 300000
+
+Player 4
+Name : Mohammad Hafeez
+Country : Pakistan
+Ability : Bowler
+Fees : 100000
+
+Player 5
+Name : Joe Root
+Country : England
+Ability : Batsman
+Fees : 700000
+
+Player 6
+Name : David Willey
+Country : England
+Ability : Bowler
+Fees : 700000
+
+Player 7
+Name : Andrew Tye
+Country : Australia
+Ability : Bowler
+Fees : 700000
+
+Player 8
+Name : Khaleel Ahmed
+Country : India
+Ability : Bowler
+Fees : 50000
+
+Player 9
+Name : Mohammad Kaif
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 10
+Name : Ramesh Powar
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 11
+Name : Sarandeep Singh
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 12
+Name : Praveen Kumar
+Country : India
+Ability : Wicket Keeper
+Fees : 600000
+
+Player 13
+Name : Ajay Sharma
+Country : India
+Ability : All-Rounder
+Fees : 600000
+
+Player 14
+Name : Ajinkya Rahane
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 15
+Name : Ajit Agarkar
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 16
+Name : Ambati Raydu
+Country : India
+Ability : Wicket Keeper
+Fees : 400000
+
+Player 17
+Name : Amit Mishra
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+Player 18
+Name : Anil Kumble
+Country : India
+Ability : Batsman
+Fees : 400000
+

@@ -1,0 +1,110 @@
+Team: Royal Challengers Bangalore
+
+Player 1
+Name : Sunil Narine
+Country : West Indies
+Ability : All-Rounder
+Fees : 100000
+
+Player 2
+Name : Gareth Delany
+Country : Ireland
+Ability : All-Rounder
+Fees : 500000
+
+Player 3
+Name : Tom Bruce
+Country : New Zealand
+Ability : Batsman
+Fees : 50000
+
+Player 4
+Name : Ross Taylor
+Country : New Zealand
+Ability : Batsman
+Fees : 400000
+
+Player 5
+Name : Kane Williamson
+Country : New Zealand
+Ability : Batsman
+Fees : 700000
+
+Player 6
+Name : Mahmudullah
+Country : Bangladesh
+Ability : Batsman
+Fees : 500000
+
+Player 7
+Name : Ish Sodhi
+Country : New Zealand
+Ability : Bowler
+Fees : 800000
+
+Player 8
+Name : Prithvi Shaw
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 9
+Name : Vijay Dahiya
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 10
+Name : Pravin Amre
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 11
+Name : M. Venkataramana
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 12
+Name : Naman Ojha
+Country : India
+Ability : Wicket Keeper
+Fees : 600000
+
+Player 13
+Name : Karun Nair
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 14
+Name : Manish Pandey
+Country : India
+Ability : Batsman
+Fees : 300000
+
+Player 15
+Name : MSK Prasad
+Country : India
+Ability : All-Rounder
+Fees : 100000
+
+Player 16
+Name : Murali Kartik
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 17
+Name : Nikhil Chopra
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+Player 18
+Name : Nilesh Kulkarni
+Country : India
+Ability : Bowler
+Fees : 600000
+

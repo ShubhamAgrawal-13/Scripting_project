@@ -1,0 +1,110 @@
+Team: Chennai Super Kings
+
+Player 1
+Name : Andile Phehlukwayo
+Country : South Africa
+Ability : All-Rounder
+Fees : 300000
+
+Player 2
+Name : Danushka Gunathilaka
+Country : Sri Lanka
+Ability : Batsman
+Fees : 300000
+
+Player 3
+Name : Mohammad Saifuddin
+Country : Bangladesh
+Ability : Bowler
+Fees : 100000
+
+Player 4
+Name : Mahedi Hasan
+Country : Bangladesh
+Ability : All-Rounder
+Fees : 50000
+
+Player 5
+Name : Ashton Agar
+Country : Australia
+Ability : Bowler
+Fees : 300000
+
+Player 6
+Name : Asghar Afghan
+Country : Afghanistan
+Ability : Batsman
+Fees : 300000
+
+Player 7
+Name : Eoin Morgan
+Country : England
+Ability : Batsman
+Fees : 700000
+
+Player 8
+Name : Virender Sehwag
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 9
+Name : Ajay Jadeja
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 10
+Name : Deep Dasgupta
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 11
+Name : Suresh Raina
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 12
+Name : Jaydev Unadkat
+Country : India
+Ability : Wicket Keeper
+Fees : 100000
+
+Player 13
+Name : Aakash Chopra
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 14
+Name : Aashish Kapoor
+Country : India
+Ability : All-Rounder
+Fees : 100000
+
+Player 15
+Name : Abey Kuruvilla
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 16
+Name : Abhimanyu Mithun
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 17
+Name : Abhinav Mukund
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+Player 18
+Name : Ajay Ratra
+Country : India
+Ability : Batsman
+Fees : 500000
+

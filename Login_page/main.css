@@ -1,0 +1,28 @@
+h1{
+  background-color: blue;
+  color:white;
+}
+
+footer{
+  background-color: blue;
+  color:white;
+}
+
+td{
+  padding: 15px;
+}
+
+.table-data{
+  padding: 0px;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

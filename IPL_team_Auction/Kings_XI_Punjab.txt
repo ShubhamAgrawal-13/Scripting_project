@@ -1,0 +1,110 @@
+Team: Kings XI Punjab
+
+Player 1
+Name : Marcus Stoinis
+Country : Australia
+Ability : All-Rounder
+Fees : 200000
+
+Player 2
+Name : Karan KC
+Country : Nepal
+Ability : All-Rounder
+Fees : 200000
+
+Player 3
+Name : Samiullah Shinwari
+Country : Afghanistan
+Ability : Bowler
+Fees : 100000
+
+Player 4
+Name : Reeza Hendricks
+Country : South Africa
+Ability : Batsman
+Fees : 700000
+
+Player 5
+Name : Wesley Barresi
+Country : Netherlands
+Ability : Batsman
+Fees : 100000
+
+Player 6
+Name : Brendon McCullum
+Country : New Zealand
+Ability : Wicket Keeper
+Fees : 600000
+
+Player 7
+Name : Mohammad Nabi
+Country : Afghanistan
+Ability : Bowler
+Fees : 700000
+
+Player 8
+Name : Shardul Thakur
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 9
+Name : Rajesh Chauhan
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 10
+Name : Jayant Yadav
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 11
+Name : Zaheer Khan
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 12
+Name : Irfan Pathan
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 13
+Name : Ashish Nehra
+Country : India
+Ability : Wicket Keeper
+Fees : 400000
+
+Player 14
+Name : Atul Wassan
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+Player 15
+Name : Bhuvneshwar Kumar
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 16
+Name : Cheteshwar Pujara
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 17
+Name : David Johnson
+Country : India
+Ability : All-Rounder
+Fees : 600000
+
+Player 18
+Name : Devang Gandhi
+Country : India
+Ability : Bowler
+Fees : 500000
+

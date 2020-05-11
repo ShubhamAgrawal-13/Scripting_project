@@ -1,0 +1,110 @@
+Team: Kolkata Knight Riders
+
+Player 1
+Name : Sikandar Raza
+Country : Zimbabwe
+Ability : All-Rounder
+Fees : 200000
+
+Player 2
+Name : Michael Leask
+Country : Scotland
+Ability : All-Rounder
+Fees : 200000
+
+Player 3
+Name : Kagiso Rabada
+Country : South Africa
+Ability : Bowler
+Fees : 300000
+
+Player 4
+Name : Lasith Malinga
+Country : Sri Lanka
+Ability : Bowler
+Fees : 600000
+
+Player 5
+Name : Isuru Udana
+Country : Sri Lanka
+Ability : Bowler
+Fees : 500000
+
+Player 6
+Name : Kyle Jarvis
+Country : Zimbabwe
+Ability : Bowler
+Fees : 200000
+
+Player 7
+Name : Hasan Ali
+Country : Pakistan
+Ability : Bowler
+Fees : 500000
+
+Player 8
+Name : Robin Singh
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 9
+Name : Ishant Sharma
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 10
+Name : Dinesh Karthik
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 11
+Name : Sairaj Bahutule
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 12
+Name : V. V. S. Laxman
+Country : India
+Ability : Wicket Keeper
+Fees : 600000
+
+Player 13
+Name : Debashish Mohanty
+Country : India
+Ability : All-Rounder
+Fees : 500000
+
+Player 14
+Name : Dodda Ganesh
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 15
+Name : Gautam Gambhir
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 16
+Name : Gursharan Singh
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 17
+Name : Hanuma Vihari
+Country : India
+Ability : Wicket Keeper
+Fees : 100000
+
+Player 18
+Name : Hardik Pandya
+Country : India
+Ability : All-Rounder
+Fees : 400000
+

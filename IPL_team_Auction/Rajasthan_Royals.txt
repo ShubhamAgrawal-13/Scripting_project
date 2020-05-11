@@ -1,0 +1,110 @@
+Team: Rajasthan Royals
+
+Player 1
+Name : Roelof van der Merwe
+Country : Netherlands
+Ability : All-Rounder
+Fees : 500000
+
+Player 2
+Name : Ashley Nurse
+Country : West Indies
+Ability : All-Rounder
+Fees : 50000
+
+Player 3
+Name : Adil Rashid
+Country : England
+Ability : Bowler
+Fees : 800000
+
+Player 4
+Name : David Miller
+Country : South Africa
+Ability : Batsman
+Fees : 600000
+
+Player 5
+Name : Alex Hales
+Country : England
+Ability : Batsman
+Fees : 800000
+
+Player 6
+Name : Stephan Myburgh
+Country : Netherlands
+Ability : Batsman
+Fees : 200000
+
+Player 7
+Name : Shakib Al Hasan
+Country : Bangladesh
+Ability : Bowler
+Fees : 800000
+
+Player 8
+Name : Lakshmipathy Balaji
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 9
+Name : Yuzvendra Chahal
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 10
+Name : Pragyan Ojha
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 11
+Name : Subramaniam Badrinath
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 12
+Name : Parthiv Patel
+Country : India
+Ability : Wicket Keeper
+Fees : 500000
+
+Player 13
+Name : Javagal Srinath
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 14
+Name : Karn Sharma
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 15
+Name : KL Rahul
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 16
+Name : Krunal Pandya
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+Player 17
+Name : Kuldeep Yadav
+Country : India
+Ability : Bowler
+Fees : 700000
+
+Player 18
+Name : MS Dhoni
+Country : India
+Ability : All-Rounder
+Fees : 100000
+

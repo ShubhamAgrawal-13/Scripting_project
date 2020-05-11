@@ -1,0 +1,110 @@
+Team: Mumbai Indians
+
+Player 1
+Name : Paul Stirling
+Country : Ireland
+Ability : All-Rounder
+Fees : 800000
+
+Player 2
+Name : Wanindu Hasaranga
+Country : Sri Lanka
+Ability : All-Rounder
+Fees : 100000
+
+Player 3
+Name : D'Arcy Short
+Country : Australia
+Ability : Batsman
+Fees : 800000
+
+Player 4
+Name : Ashfaq Ahmed
+Country : United Arab Emirates
+Ability : Batsman
+Fees : 100000
+
+Player 5
+Name : Jos Buttler
+Country : England
+Ability : Batsman
+Fees : 600000
+
+Player 6
+Name : JP Duminy
+Country : South Africa
+Ability : Batsman
+Fees : 500000
+
+Player 7
+Name : Tabraiz Shamsi
+Country : South Africa
+Ability : Bowler
+Fees : 700000
+
+Player 8
+Name : Subroto Banerjee
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 9
+Name : Mohammed Shami
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 10
+Name : Shikhar Dhawan
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 11
+Name : Washington Sundar
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 12
+Name : Rishabh Pant
+Country : India
+Ability : Wicket Keeper
+Fees : 500000
+
+Player 13
+Name : Harbhajan Singh
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 14
+Name : Harvinder Singh
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 15
+Name : Hemang Badani
+Country : India
+Ability : Wicket Keeper
+Fees : 400000
+
+Player 16
+Name : Hrishikesh Kanitkar
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 17
+Name : Iqbal Siddiqui
+Country : India
+Ability : All-Rounder
+Fees : 600000
+
+Player 18
+Name : Jasprit Bumrah
+Country : India
+Ability : Bowler
+Fees : 600000
+

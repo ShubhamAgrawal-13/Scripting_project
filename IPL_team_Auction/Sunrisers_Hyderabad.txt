@@ -1,0 +1,110 @@
+Team: Sunrisers Hyderabad
+
+Player 1
+Name : Chris Gayle
+Country : West Indies
+Ability : All-Rounder
+Fees : 500000
+
+Player 2
+Name : George Dockrell
+Country : Ireland
+Ability : All-Rounder
+Fees : 200000
+
+Player 3
+Name : Elton Chigumbura
+Country : Zimbabwe
+Ability : Batsman
+Fees : 100000
+
+Player 4
+Name : Ahmed Shehzad
+Country : Pakistan
+Ability : Batsman
+Fees : 200000
+
+Player 5
+Name : Colin Munro
+Country : New Zealand
+Ability : Batsman
+Fees : 800000
+
+Player 6
+Name : Corey Anderson
+Country : New Zealand
+Ability : Batsman
+Fees : 100000
+
+Player 7
+Name : Nathan Coulter-Nile
+Country : Australia
+Ability : Bowler
+Fees : 400000
+
+Player 8
+Name : Ravindra Jadeja
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 9
+Name : Sameer Dighe
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 10
+Name : Venkatapathy Raju
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 11
+Name : Rahul Dravid
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 12
+Name : Robin Uthappa
+Country : India
+Ability : Wicket Keeper
+Fees : 400000
+
+Player 13
+Name : Mayank Agarwal
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 14
+Name : Munaf Patel
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 15
+Name : Robin Singh, Jr.
+Country : India
+Ability : All-Rounder
+Fees : 500000
+
+Player 16
+Name : Rohit Sharma
+Country : India
+Ability : All-Rounder
+Fees : 500000
+
+Player 17
+Name : Sanju Samson
+Country : India
+Ability : Wicket Keeper
+Fees : 500000
+
+Player 18
+Name : S. Sreesanth
+Country : India
+Ability : Bowler
+Fees : 100000
+
